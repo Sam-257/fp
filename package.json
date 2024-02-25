@@ -1,0 +1,22 @@
+{
+  "name": "@sam-257/fp",
+  "version": "0.1.0",
+  "description": "A simple javascript utility to functional programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam-257/fp.git"
+  },
+  "keywords": [
+    "fp"
+  ],
+  "author": "Sam-257",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam-257/fp/issues"
+  },
+  "homepage": "https://github.com/Sam-257/fp#readme"
+}
